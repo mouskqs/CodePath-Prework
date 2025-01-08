@@ -4,6 +4,15 @@ Submitted by: **Salimatou Diallo**
 
 **SD iOS Prework** is an app that contains three labels and a button. It allows the user to change the color of the screen at random by pressing the button.  
 
+*GIF Of App*
+<div>
+    <a href="https://www.loom.com/share/e1e0adb82bf642c391a3b599069dbc67">
+    </a>
+    <a href="https://www.loom.com/share/e1e0adb82bf642c391a3b599069dbc67">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/e1e0adb82bf642c391a3b599069dbc67-79623c098d2bf79e-full-play.gif">
+    </a>
+  </div>
+  
 Time spent: **5** hours spent in total
 
 ## Required Features
