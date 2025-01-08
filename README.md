@@ -31,7 +31,7 @@ The following **required** functionality is completed:
 - Dozens of interactive challenges to engage users.
 - Endless amount of music/sound integration.  
 
-**Potential App Idea:** I would like to develop an app that is essentially a gamified habit/task tracker. The basic premise of the application would be to create tasks that act as "towers" in the world. The towers are then upgraded or made to be more extravagent the more that these tasks are completed and if a streak is developed. I would like there to be features if a players loses their streak or misses a tasks, like a feature where the tower is shown crumbling due to losing against an "opponent" aka a distraction or obstacle. Ideally, there would also be a lot of fun animations and sounds if tasks are completed, and a lot of customization in terms of what a user's world would look like. 
+**Potential App Idea:** I would like to develop an app that is essentially a gamified habit/task tracker. The basic premise of the application would be to create tasks that act as "towers" in the world. The towers are then upgraded or made to be more extravagent the more that these tasks are completed and if a streak is developed. I would like there to be features if a players loses their streak or misses a task, like a feature where the tower is shown crumbling due to losing against an "opponent" aka a distraction or obstacle. Ideally, there would also be a lot of fun animations and sounds if tasks are completed, and a lot of customization in terms of what a user's world would look like. 
 
 ## Notes
 Describe any challenges encountered while building the app.
